@@ -5,7 +5,7 @@
 
 A frontend application that displays real-time wildfire data on rendered map.
 
-![Screenshot](components/firetracker_screenshot)
+![Screenshot](components/firetracker_screenshot.png)
 
 
 
